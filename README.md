@@ -14,3 +14,8 @@
 
 * Step-4 : Add value (that will be assigned to the devices) of extension attribute to EXTENSION_ATTRIBUTE_VALUE variable (Line 14)
 
+
+## Authors
+
+- [@euydu](https://www.github.com/euydu)
+- emreuydu@gmail.com 
